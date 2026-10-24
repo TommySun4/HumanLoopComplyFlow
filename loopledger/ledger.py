@@ -1,6 +1,3 @@
-"""B：SQLite 存储与哈希链日志，待实现。"""
-"""B: SQLite storage and audit events."""
-
 import sqlite3
 from contextlib import closing
 from pathlib import Path
